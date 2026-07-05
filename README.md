@@ -131,7 +131,7 @@ http://localhost:4200
 
 ## Authors
 
-Harika Kallepelli
+Harika Kallepelli, Akula Srivarsha, Koduri Supriya
 
 ## License
 
